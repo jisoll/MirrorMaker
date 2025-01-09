@@ -1,0 +1,4 @@
+##gff-version 3
+CP107277.2	barrnap:0.9	rRNA	1665477	1666981	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP107277.2	barrnap:0.9	rRNA	2592552	2594056	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP107277.2	barrnap:0.9	rRNA	3459155	3459265	1.3e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA

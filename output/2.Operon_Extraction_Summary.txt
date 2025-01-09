@@ -1,0 +1,4 @@
+### Operon Extraction Summary ###
+Total genomes processed: 328
+Genomes with no operons: 29
+Genomes with empty GFF files: 0

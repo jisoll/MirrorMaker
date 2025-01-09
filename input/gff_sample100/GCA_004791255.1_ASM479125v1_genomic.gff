@@ -1,0 +1,7 @@
+##gff-version 3
+SRUQ01000003.1	barrnap:0.9	rRNA	74535	76016	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+SRUQ01000003.1	barrnap:0.9	rRNA	76869	79658	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+SRUQ01000003.1	barrnap:0.9	rRNA	79864	79973	9.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+SRUQ01000003.1	barrnap:0.9	rRNA	82260	83741	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+SRUQ01000003.1	barrnap:0.9	rRNA	84594	87383	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+SRUQ01000003.1	barrnap:0.9	rRNA	87589	87698	9.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA

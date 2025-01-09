@@ -1,0 +1,4 @@
+##gff-version 3
+CM002369.1	barrnap:0.9	rRNA	22739	22847	2.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CM002369.1	barrnap:0.9	rRNA	137305	137413	2.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CM002369.1	barrnap:0.9	rRNA	1555934	1556042	2.1e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA

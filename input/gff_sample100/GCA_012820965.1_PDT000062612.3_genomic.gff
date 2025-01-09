@@ -1,0 +1,4 @@
+##gff-version 3
+AATIMD010000004.1	barrnap:0.9	rRNA	268569	268669	8.1e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+AATIMD010000017.1	barrnap:0.9	rRNA	111466	111576	4.9e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+AATIMD010000018.1	barrnap:0.9	rRNA	84595	84705	2.1e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA

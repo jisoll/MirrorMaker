@@ -1,0 +1,23 @@
+##gff-version 3
+CP007417.2	barrnap:0.9	rRNA	294194	295731	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	296250	299291	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	299491	299601	7.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	2748663	2748773	6.6e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	2748974	2751877	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	2752235	2753772	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	3448317	3448427	4.5e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	3448562	3448672	6.6e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	3448769	3451672	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	3452030	3453567	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	3970433	3971970	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	3972328	3975231	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	3975432	3975542	6.6e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4064846	4066383	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4066902	4069805	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4070006	4070116	7.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4223373	4224910	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4225429	4228329	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4228530	4228640	7.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4266827	4268364	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4268722	4271625	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP007417.2	barrnap:0.9	rRNA	4271722	4271832	7.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA

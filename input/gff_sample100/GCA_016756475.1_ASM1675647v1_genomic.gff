@@ -1,0 +1,7 @@
+##gff-version 3
+AP023242.1	barrnap:0.9	rRNA	1848412	1849893	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+AP023242.1	barrnap:0.9	rRNA	1850776	1853626	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+AP023242.1	barrnap:0.9	rRNA	1853847	1853956	1e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+AP023242.1	barrnap:0.9	rRNA	2015908	2017389	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+AP023242.1	barrnap:0.9	rRNA	2018272	2021122	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+AP023242.1	barrnap:0.9	rRNA	2021343	2021452	1e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA

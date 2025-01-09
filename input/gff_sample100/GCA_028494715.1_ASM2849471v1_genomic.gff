@@ -1,0 +1,11 @@
+##gff-version 3
+JABYIV010000001.1	barrnap:0.9	rRNA	712457	712567	6.2e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JABYIV010000001.1	barrnap:0.9	rRNA	712740	712849	6.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JABYIV010000006.1	barrnap:0.9	rRNA	236	344	7.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+JABYIV010000009.1	barrnap:0.9	rRNA	116578	116686	7.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JABYIV010000010.1	barrnap:0.9	rRNA	236	345	6.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+JABYIV010000012.1	barrnap:0.9	rRNA	107646	107754	7.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JABYIV010000017.1	barrnap:0.9	rRNA	51577	53115	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+JABYIV010000026.1	barrnap:0.9	rRNA	6194	6303	6.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JABYIV010000030.1	barrnap:0.9	rRNA	102	2985	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+JABYIV010000038.1	barrnap:0.9	rRNA	236	345	6.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA

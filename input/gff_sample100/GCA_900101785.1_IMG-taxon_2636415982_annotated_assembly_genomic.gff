@@ -1,0 +1,7 @@
+##gff-version 3
+LT629688.1	barrnap:0.9	rRNA	1824802	1826317	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+LT629688.1	barrnap:0.9	rRNA	1826723	1829832	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+LT629688.1	barrnap:0.9	rRNA	1829927	1830037	1.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+LT629688.1	barrnap:0.9	rRNA	3646638	3646748	1.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+LT629688.1	barrnap:0.9	rRNA	3646843	3649952	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+LT629688.1	barrnap:0.9	rRNA	3650358	3651873	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

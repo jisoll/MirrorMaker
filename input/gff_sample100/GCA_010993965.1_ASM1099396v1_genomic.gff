@@ -1,0 +1,11 @@
+##gff-version 3
+WIXM01000011.1	barrnap:0.9	rRNA	189	298	3.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000016.1	barrnap:0.9	rRNA	371	481	2e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000017.1	barrnap:0.9	rRNA	182	291	3.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000022.1	barrnap:0.9	rRNA	158	267	2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000025.1	barrnap:0.9	rRNA	177	286	1.5e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000028.1	barrnap:0.9	rRNA	53057	53166	3.1e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000032.1	barrnap:0.9	rRNA	185	295	2.8e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000043.1	barrnap:0.9	rRNA	160	268	6.9e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000061.1	barrnap:0.9	rRNA	179	286	6.6e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+WIXM01000069.1	barrnap:0.9	rRNA	141	251	2.8e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA

@@ -1,0 +1,26 @@
+##gff-version 3
+CP078766.1	barrnap:0.9	rRNA	465329	466864	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	467066	469964	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	470065	470175	4.7e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	470309	470418	2.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	1307057	1308592	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	1308947	1311845	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	1311945	1312055	4.7e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	4466153	4466263	4.7e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	4466363	4469261	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	4469763	4471298	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	4849338	4849448	4.7e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	4849548	4852446	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	4852801	4854336	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5243511	5243621	4.7e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5243721	5246619	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5246966	5248501	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5288557	5288667	4.7e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5288771	5291669	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5292099	5293634	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5380358	5380468	4.7e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5380572	5383470	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5383903	5385438	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5485048	5485158	4.7e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5485259	5488157	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP078766.1	barrnap:0.9	rRNA	5488512	5490047	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

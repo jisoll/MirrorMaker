@@ -1,0 +1,4 @@
+##gff-version 3
+QTMD01000039.1	barrnap:0.9	rRNA	29769	31291	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+QTMD01000039.1	barrnap:0.9	rRNA	31783	34653	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+QTMD01000039.1	barrnap:0.9	rRNA	34733	34838	4.5e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA

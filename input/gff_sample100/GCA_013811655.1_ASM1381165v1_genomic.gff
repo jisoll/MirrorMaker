@@ -1,0 +1,23 @@
+##gff-version 3
+CP057062.1	barrnap:0.9	rRNA	1879305	1879415	2.1e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	1879513	1882413	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	1882848	1884385	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	2785384	2785494	1.4e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	2785629	2785739	2.1e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	2785837	2788737	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	2789178	2790715	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3426240	3427777	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3428135	3431035	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3431133	3431243	2.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3519979	3521516	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3521966	3524866	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3524964	3525074	8.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3651782	3653319	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3653677	3656577	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3656675	3656785	8.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3693185	3694722	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3695080	3697980	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	3698078	3698188	2.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	4411139	4412676	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	4413117	4416017	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP057062.1	barrnap:0.9	rRNA	4416115	4416225	2.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA

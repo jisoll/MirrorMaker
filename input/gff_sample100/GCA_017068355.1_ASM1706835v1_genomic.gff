@@ -1,0 +1,20 @@
+##gff-version 3
+CP070872.1	barrnap:0.9	rRNA	80737	80834	3.8e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	80926	83820	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	84123	85665	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	112377	112474	3.8e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	112566	115460	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	115763	117305	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	178954	179051	3.8e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	179143	182037	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	182340	183882	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	200890	200987	3.8e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	201079	203973	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	204276	205818	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	230606	230709	1.5e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	647497	649039	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	649342	652236	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	652328	652425	3.8e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	1828152	1828249	3.8e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	1828341	1831235	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP070872.1	barrnap:0.9	rRNA	1831538	1833080	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

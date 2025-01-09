@@ -1,0 +1,3 @@
+##gff-version 3
+JHND01000131.1	barrnap:0.9	rRNA	150	1687	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+JHND01000131.1	barrnap:0.9	rRNA	2088	4988	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

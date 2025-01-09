@@ -1,0 +1,10 @@
+##gff-version 3
+CP013888.1	barrnap:0.9	rRNA	2052056	2052163	5.2e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	2052342	2055220	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	2055807	2057333	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	2325084	2325191	5.2e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	2325370	2328248	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	2328835	2330361	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	3224530	3224637	5.2e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	3224816	3227694	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CP013888.1	barrnap:0.9	rRNA	3228281	3229807	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

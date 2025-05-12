@@ -118,8 +118,8 @@ GCA_000599625.1  d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterob
 | `4.Operon_Curation_Detail.txt`      | Operon data + taxonomy + duplication flags    |
 | `5.Operon_Curation_Results.txt`     | Final clean set for downstream analysis       |
 
-### 🔍 Example: `1.Operon_Filtered.txt`
 
+##### Example: `1.Operon_Filtered.txt`
 
 ```tsv
 GenbankNo	Accession	CopyNo	Start	End	Strand	Length
@@ -127,19 +127,16 @@ GCA_000599625.1	CP007390.1	operon_1	4715033	4723387	+	8355
 GCA_027286205.1	CP114738.1	operon_1	462430	472704	+	10275
 GCA_000185245.1	CP002336.1	operon_1	1014367	1145719	-	131353
 ```
+- Note: These operons were excluded because their lengths were either too short or too long (outside the 3,500–7,000 bp threshold).*
 
-🧾 *Note: These operons were excluded because their lengths were either too short or too long (outside the 3,500–7,000 bp threshold).*
-
----
-
-### 🔍 Example: `2.Operon_Extraction_Summary.txt`
-
+##### Example: `2.Operon_Extraction_Summary.txt`
 ```txt
 ### Operon Extraction Summary ###
 Total genomes processed: 1
 Genomes with no operons: 0
 Genomes with empty GFF files: 0
 ```
+
 ---
 ## 📚 Citation
 

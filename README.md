@@ -8,7 +8,7 @@ GFF/FNA-based operon detection → GTDB taxonomy annotation → Redundancy & amb
 
 ---
 
-## 📁 Project Directory Structure
+## 📁 Directory Structure
 
 ```
 MirrorMaker/
@@ -140,14 +140,6 @@ Total genomes processed: 1
 Genomes with no operons: 0
 Genomes with empty GFF files: 0
 ```
----
-
-## 🧠 Notes
-
-- The main class is `MIrRORv2_Bacteria`, designed for modularity and step-by-step processing
-- Logging is included for traceability via `WriteLog()`
-- Easy to customize or integrate into larger workflows
-
 ---
 ## 📚 Citation
 

@@ -8,7 +8,7 @@ GFF/FNA-based operon detection → GTDB taxonomy annotation → Redundancy & amb
 
 ---
 
-## 📁 Directory Structure
+### 📁 Directory Structure
 
 ```
 MirrorMaker/
@@ -27,7 +27,7 @@ MirrorMaker/
 
 ---
 
-## ✅ Requirements
+### ✅ Requirements
 
 - Python 3.7+
 - Required modules:
@@ -42,7 +42,7 @@ pip install pandas
 
 ---
 
-## 🚀 How to Run
+### 🚀 How to Run
 
 ```bash
 python main.py
@@ -50,49 +50,49 @@ python main.py
 
 ---
 
-## 🔧 Pipeline Overview
+### 🔧 Pipeline Overview
 
-### 1. GFF Parsing & Operon Detection
+#### 1. GFF Parsing & Operon Detection
 - Detects rRNA operons composed of 16S and 23S features (strand-aware)
 - Accepts only operons within 3,500–7,000 bp range
 
-### 2. Sequence Extraction
+#### 2. Sequence Extraction
 - Retrieves sequence segments from corresponding `.fna` files
 - Performs reverse-complement if strand is negative (`-`)
 
-### 3. GTDB Taxonomy Annotation
+#### 3. GTDB Taxonomy Annotation
 - Uses `gtdb_taxonomy_r220.tsv` to annotate taxonomic information
 - Fields extracted: Phylum, Class, Order, Family, Genus, Species
 
-### 4. Redundancy Filtering
+#### 4. Redundancy Filtering
 - Identifies and flags/removes:
   - **Intra-genome duplicated** sequences
   - **Intra-species duplicated** sequences
   - **Inter-species duplicated** sequences
 
-### 5. Ambiguous Nucleotide Filtering
+#### 5. Ambiguous Nucleotide Filtering
 - Filters out sequences with more than 5 ambiguous bases (`N`)
 
-### 6. Final Sequence Curation
+#### 6. Final Sequence Curation
 - Drops entries missing taxonomy info
 - Reassigns operon CopyNo after removals
 - Saves final curated list
 
 ---
 
-## 📄 Input File Formats
+### 📄 Input File Formats
 
-### GFF File
+#### GFF File
 
 - Must follow standard 9-column GFF format
 - Should include `rRNA` features with `16S` and `23S` in attributes
 
-### FNA File
+#### FNA File
 
 - FASTA format genome file
 - Header lines must include accession (e.g. `>accession...`)
 
-### GTDB Taxonomy File
+#### GTDB Taxonomy File
 
 - Tab-separated format:
 
@@ -108,7 +108,7 @@ GCA_000599625.1  d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterob
 
 ---
 
-## 📤 Output Files
+### 📤 Output Files
 
 | File                                | Description                                   |
 |-------------------------------------|-----------------------------------------------|
@@ -138,7 +138,7 @@ Genomes with empty GFF files: 0
 ```
 
 ---
-## 📚 Citation
+### 📚 Citation
 
 If you use this pipeline in your research or publication, please cite:
 
@@ -146,6 +146,6 @@ If you use this pipeline in your research or publication, please cite:
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 
 Contact: **Jisol Lee** – [leejisol@snu.ac.kr](mailto:leejisol@snu.ac.kr)

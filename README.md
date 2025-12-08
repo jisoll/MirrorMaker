@@ -1,6 +1,6 @@
 # MirrorMaker
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14603319.svg)](https://doi.org/10.5281/zenodo.14603319)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17639192.svg)](https://doi.org/10.5281/zenodo.17639192)
 
 🧬 A Bacterial rRNA Operon Extraction and Curation Pipeline  
 For microbial genomics researchers extracting 16S–23S rRNA operons from genome annotation files.  

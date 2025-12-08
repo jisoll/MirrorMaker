@@ -142,7 +142,7 @@ Genomes with empty GFF files: 0
 
 If you use this pipeline in your research or publication, please cite:
 
-> *Zenodo*. [https://doi.org/10.5281/zenodo.14603319](https://doi.org/10.5281/zenodo.14603319)
+> *Zenodo*. [https://doi.org/10.5281/zenodo.17639192](https://doi.org/10.5281/zenodo.17639192)
 
 ---
 
